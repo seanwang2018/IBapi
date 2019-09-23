@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\TWS API\AlltureAM\CSharp\Allture - monitor" t="IncludeRecursive">
+      <e p="alltureMonitor.csproj" t="IncludeRecursive" />
+      <e p="alltureMonitor.sln" t="IncludeFlat" />
+      <e p="app.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive">
+        <e p="Debug" t="Include" />
+        <e p="Release" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include" />
+        <e p="Release" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\TWS API\source\csharpclient\client" t="IncludeRecursive">
+      <e p="AccountSummaryTags.cs" t="Include" />
+      <e p="Bar.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="BitMask.cs" t="Include" />
+      <e p="ComboLeg.cs" t="Include" />
+      <e p="CommissionReport.cs" t="Include" />
+      <e p="Constants.cs" t="Include" />
+      <e p="Contract.cs" t="Include" />
+      <e p="ContractCondition.cs" t="Include" />
+      <e p="ContractDescription.cs" t="Include" />
+      <e p="ContractDetails.cs" t="Include" />
+      <e p="CSharpAPI.csproj" t="IncludeRecursive" />
+      <e p="DefaultEWrapper.cs" t="Include" />
+      <e p="DeltaNeutralContract.cs" t="Include" />
+      <e p="DepthMktDataDescription.cs" t="Include" />
+      <e p="EClient.cs" t="Include" />
+      <e p="EClientErrors.cs" t="Include" />
+      <e p="EClientException.cs" t="Include" />
+      <e p="EClientMsgSink.cs" t="Include" />
+      <e p="EClientSocket.cs" t="Include" />
+      <e p="EClientSocketSSL.cs" t="Include" />
+      <e p="EDecoder.cs" t="Include" />
+      <e p="EMessage.cs" t="Include" />
+      <e p="EReader.cs" t="Include" />
+      <e p="EReaderMonitorSignal.cs" t="Include" />
+      <e p="EReaderSignal.cs" t="Include" />
+      <e p="ESocket.cs" t="Include" />
+      <e p="ETransport.cs" t="Include" />
+      <e p="EWrapper.cs" t="Include" />
+      <e p="EWrapperImpl.cs" t="Include" />
+      <e p="Execution.cs" t="Include" />
+      <e p="ExecutionCondition.cs" t="Include" />
+      <e p="ExecutionFilter.cs" t="Include" />
+      <e p="FamilyCode.cs" t="Include" />
+      <e p="HistogramEntry.cs" t="Include" />
+      <e p="HistoricalTick.cs" t="Include" />
+      <e p="HistoricalTickBidAsk.cs" t="Include" />
+      <e p="HistoricalTickLast.cs" t="Include" />
+      <e p="IBParamsList.cs" t="Include" />
+      <e p="IDecoder.cs" t="Include" />
+      <e p="IncomingMessage.cs" t="Include" />
+      <e p="MarginCondition.cs" t="Include" />
+      <e p="MessageValidator.cs" t="Include" />
+      <e p="MinServerVer.cs" t="Include" />
+      <e p="NewsProvider.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OperatorCondition.cs" t="Include" />
+      <e p="Order.cs" t="Include" />
+      <e p="OrderComboLeg.cs" t="Include" />
+      <e p="OrderCondition.cs" t="Include" />
+      <e p="OrderState.cs" t="Include" />
+      <e p="OutgoingMessages.cs" t="Include" />
+      <e p="PercentChangeCondition.cs" t="Include" />
+      <e p="PriceCondition.cs" t="Include" />
+      <e p="PriceIncrement.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="ScannerSubscription.cs" t="Include" />
+      <e p="SoftDollarTier.cs" t="Include" />
+      <e p="TagValue.cs" t="Include" />
+      <e p="TickAttrib.cs" t="Include" />
+      <e p="TickType.cs" t="Include" />
+      <e p="TimeCondition.cs" t="Include" />
+      <e p="TradeBooks.cs" t="Include" />
+      <e p="TradeStrategy.cs" t="Include" />
+      <e p="Util.cs" t="Include" />
+      <e p="VolumeCondition.cs" t="Include" />
+    </e>
+    <e p="C:\TWS API\source\Sample" t="IncludeRecursive">
+      <e p="AvailableAlgoParams.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ContractSamples.cs" t="Include" />
+      <e p="FaAllocationSamples.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OrderSamples.cs" t="Include" />
+      <e p="RequestContractDetails.cs" t="Include" />
+      <e p="Samples.csproj" t="IncludeRecursive" />
+      <e p="ScannerSubscriptionSamples.cs" t="Include" />
+    </e>
+    <e p="C:\Users\17034\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\17034\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_alltureMonitor.90328514.00" t="ExcludeRecursive" />
+  </component>
+</project>

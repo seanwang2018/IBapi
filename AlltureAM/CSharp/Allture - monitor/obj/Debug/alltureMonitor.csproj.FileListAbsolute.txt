@@ -1,0 +1,24 @@
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csprojAssemblyReference.cache
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csproj.CoreCompileInputs.cache
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.exe.config
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.exe
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.pdb
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\CSharpAPI.dll
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\IBSample.dll
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\CSharpAPI.pdb
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\bin\Debug\IBSample.pdb
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csproj.CopyComplete
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.exe
+C:\TWS API\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.pdb
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.exe.config
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.exe
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\alltureMonitor.pdb
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\CSharpAPI.dll
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\IBSample.dll
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\CSharpAPI.pdb
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\bin\Debug\IBSample.pdb
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csprojAssemblyReference.cache
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csproj.CoreCompileInputs.cache
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.csproj.CopyComplete
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.exe
+C:\TWS API Test\AlltureAM\CSharp\Allture - monitor\obj\Debug\alltureMonitor.pdb

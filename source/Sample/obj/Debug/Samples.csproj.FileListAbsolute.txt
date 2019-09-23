@@ -1,0 +1,9 @@
+C:\TWS API\source\Sample\bin\Release\IBSample.dll
+C:\TWS API\source\Sample\bin\Release\IBSample.pdb
+C:\TWS API\source\Sample\bin\Release\CSharpAPI.dll
+C:\TWS API\source\Sample\bin\Release\CSharpAPI.pdb
+C:\TWS API\source\Sample\obj\Debug\Samples.csprojAssemblyReference.cache
+C:\TWS API\source\Sample\obj\Debug\Samples.csproj.CoreCompileInputs.cache
+C:\TWS API\source\Sample\obj\Debug\Samples.csproj.CopyComplete
+C:\TWS API\source\Sample\obj\Debug\IBSample.dll
+C:\TWS API\source\Sample\obj\Debug\IBSample.pdb
